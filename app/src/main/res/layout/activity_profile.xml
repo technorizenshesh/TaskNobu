@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activities.ProfileAct"
+        android:orientation="vertical"
+        >
+
+        <include layout="@layout/header_layout" android:id="@+id/header" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="@dimen/_80sdp"
+            android:layout_height="@dimen/_80sdp"
+            android:background="@drawable/circle_gray"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ritesh Sharma "
+            android:fontFamily="@font/montserrat_medium"
+            android:textColor="@color/black"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:textSize="@dimen/_12sdp"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/_40sdp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="rohit@gmail.com "
+            android:fontFamily="@font/montserrat_medium"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:textSize="@dimen/_12sdp"
+            android:layout_marginTop="@dimen/_15sdp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vijay nagar, Indore,Madhya Pradesh"
+            android:fontFamily="@font/montserrat_medium"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/_12sdp"
+            android:drawableLeft="@drawable/ic_location"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:layout_marginTop="@dimen/_15sdp"
+            />
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TaskNobu</string>
+    <string name="set_your_location">Set Your Location</string>
+    <string name="logout">Logout</string>
+    <string name="upload_photo"><u>Upload Photo</u></string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="please_turn_on_your_gps_to_find_nout_better_restaurant_suggestion_nnear_you">Please turn on your GPS \nto  be better for we find\n your location.</string>
+    <string name="please_wait">Please wait.</string>
+    <string name="enter_your_email">Enter email</string>
+    <string name="enter_your_password">Enter pass</string>
+    <string name="msg_noInternet">NO Internet</string>
+    <string name="add_your_location">Add Your Location</string>
+    <string name="download">Download</string>
+    <string name="details">Detail</string>
+    <string name="view_details">View Details</string>
+    <string name="permission_denied_boo">Permission Denied</string>
+    <string name="permisson_denied">Permission Denies</string>
+    <string name="questionaries">Questionnaires</string>
+    <string name="comment_incidents_below">Comment incidents below:</string>
+    <string name="enter_answer">Enter Answer</string>
+    <string name="welcome_back">WELCOME BACK!</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me?</string>
+    <string name="logged_in_successful">Logged in successfully</string>
+    <string name="welcome">Welcome</string>
+    <string name="questionaries1">Questionaries</string>
+    <string name="tasks_to_do">Tasks to do-</string>
+    <string name="work_destination">Work Destination-</string>
+    <string name="work_places_short">Short Description-</string>
+    <string name="work_places_long">Long Description-</string>
+    <string name="please_upload_image">Please upload image.</string>
+    <string name="work_place_data_name">Work Place Data Name-</string>
+    <string name="work_place_data_value">Work Place Data Name-</string>
+    <string name="wokrplace_data">Workplace Data</string>
+</resources>

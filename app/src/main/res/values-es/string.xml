@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskNobu</string>
+    <string name="set_your_location">Establece tu ubicación</string>
+    <string name="logout">Salir</string>
+    <string name="upload_photo"><u>Subir fotos</u></string>
+    <string name="submit_answers">Enviar Respustas</string>
+    <string name="please_turn_on_your_gps_to_find_nout_better_restaurant_suggestion_nnear_you">Por favor enciende el GPS\npara poder activar la localización</string>
+    <string name="please_wait">Por favor espere.</string>
+    <string name="enter_your_email">Email</string>
+    <string name="enter_your_password">Contraseña</string>
+    <string name="msg_noInternet">Sin acceso a internet</string>
+    <string name="add_your_location">Añada su ubicación</string>
+    <string name="download">Descargar</string>
+    <string name="details">Detalle</string>
+    <string name="view_details">Ver detalles</string>
+    <string name="permission_denied_boo">Permiso denegado</string>
+    <string name="permisson_denied">Permiso denegado</string>
+    <string name="questionaries">Cuestionario</string>
+    <string name="comment_incidents_below">Describa los incidentes a continuación</string>
+    <string name="enter_answer">Introduzca la respuesta</string>
+    <string name="welcome_back">¡Bienvenido de nuevo!</string>
+    <string name="login">Login</string>
+    <string name="your_email">Email</string>
+    <string name="password">Contrasela</string>
+    <string name="remember_me">¿Recordarme?</string>
+    <string name="logged_in_successful">Login correcto</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="questionaries1">Cuestionarios</string>
+    <string name="tasks_to_do">Tareas que hacer-</string>
+    <string name="work_destination">Destino de trabajo-</string>
+    <string name="work_places_long">descripción larga: </string>
+    <string name="work_places_short">Breve descripción:</string>
+    <string name="please_upload_image">Cargue la imagen.</string>
+    <string name="work_place_data_name">Nombre de datos del lugar de trabajo-</string>
+
+    <string name="wokrplace_data">Datos del lugar de trabajo</string>
+
+    <string name="work_place_data_value">Valor de los datos del lugar de trabajo-</string>
+</resources>
