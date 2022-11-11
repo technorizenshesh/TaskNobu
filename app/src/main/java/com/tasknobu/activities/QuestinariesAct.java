@@ -216,7 +216,6 @@ public class QuestinariesAct extends AppCompatActivity {
 
                 if(imagesList.get(position).contains("https://nobu.es/tasknobu/uploads"))
                 {
-                     "https://technorizen.com/splurge/uploads/images"
 
                     removeImage(imagesList.get(position));
                     imagesList.remove(position);
